@@ -1,0 +1,247 @@
+﻿employee_id,first_name,last_name,department_id,job_title,hire_date,employment_status,employment_type,annual_salary,manager_id,work_location
+EMP001,Noah,Morgan,D006,Customer Support Representative,2024-02-21,Active,Full-time,42000.00,,Remote
+EMP002,Emerson,Foster,D006,Customer Support Representative,2026-05-14,Active,Full-time,48000.00,,Phoenix
+EMP003,Sasha,Brooks,D005,Operations Analyst,2026-05-09,Active,Full-time,43000.00,,Remote
+EMP004,Morgan,Patel,D004,Payroll Coordinator,2025-07-23,Active,Contract,59400.00,,Tucson
+EMP005,Dakota,Morgan,D001,HR Analyst,2025-12-05,Active,Part-time,39050.00,,Tucson
+EMP006,Logan,Carter,D001,HR Analyst,2026-01-10,Active,Full-time,44000.00,,Tucson
+EMP007,Cameron,Turner,D001,HR Generalist,2024-07-25,Active,Full-time,65000.00,,Tucson
+EMP008,Jamie,Brooks,D002,IT Project Coordinator,2024-05-26,Active,Full-time,94000.00,,Tucson
+EMP009,Jordan,Carter,D004,Payroll Coordinator,2025-03-25,Active,Part-time,51700.00,,Phoenix
+EMP010,Milan,Shah,D003,Content Strategist,2025-07-02,Active,Part-time,41800.00,,Phoenix
+EMP011,Drew,Kim,D006,Service Coordinator,2026-03-21,Terminated,Full-time,43000.00,,Phoenix
+EMP012,Riley,Diaz,D006,Customer Experience Analyst,2026-05-27,Terminated,Full-time,48000.00,,Tucson
+EMP013,Hayden,Patel,D001,HR Coordinator,2024-08-12,Active,Full-time,69000.00,,Tucson
+EMP014,Logan,Gray,D004,Accountant,2025-05-29,Leave,Part-time,24750.00,,Phoenix
+EMP015,Avery,Gray,D006,Customer Experience Analyst,2025-11-27,Active,Full-time,63000.00,,Remote
+EMP016,Emerson,Foster,D003,Digital Marketing Specialist,2024-08-05,Terminated,Full-time,80000.00,,Phoenix
+EMP017,Avery,Foster,D002,IT Project Coordinator,2024-11-26,Active,Full-time,81000.00,,Tucson
+EMP018,Jamie,Rivera,,Financial Analyst,2024-08-17,Terminated,Part-time,35200.00,,Phoenix
+EMP019,Sasha,Kim,D005,Operations Coordinator,2024-06-24,Active,Part-time,42350.00,EMP007,Phoenix
+EMP020,Casey,Coleman,D006,Service Coordinator,2024-12-04,Active,Part-time,33550.00,EMP006,Remote
+EMP021,Rowan,Diaz,D006,Support Team Lead,2025-09-30,Active,Full-time,57000.00,EMP013,Tucson
+EMP022,Jamie,Ward,D001,HR Generalist,2025-04-05,Active,Full-time,77000.00,EMP014,Phoenix
+EMP023,Taylor,Diaz,D001,HR Coordinator,2024-04-30,Active,Part-time,34650.00,EMP017,Phoenix
+EMP024,Finley,Ross,D003,Content Strategist,2025-03-14,Active,Full-time,76000.00,EMP011,Phoenix
+EMP025,Sam,Perry,D004,Accountant,2025-01-24,Active,Full-time,67000.00,EMP003,Tucson
+EMP026,Jamie,Reed,D006,Customer Support Representative,2024-07-20,Active,Full-time,40000.00,EMP013,Phoenix
+EMP027,Taylor,Bailey,D005,Business Analyst,2024-10-14,Active,Full-time,58000.00,EMP004,Remote
+EMP028,Cameron,Perry,D001,HR Coordinator,2024-01-31,Leave,Part-time,31350.00,EMP006,Tucson
+EMP029,Alex,Nguyen,D004,Accounts Payable Specialist,2026-04-01,Terminated,Full-time,45000.00,EMP005,Tucson
+EMP030,Finley,Gray,D003,Content Strategist,2026-09-23,Active,Full-time,43000.00,EMP016,Remote
+EMP031,Cameron,Rivera,D001,HR Analyst,2024-04-27,Active,Full-time,75000.00,EMP011,Remote
+EMP032,Alex,Morgan,D001,HR Generalist,2024-05-20,Active,Full-time,,EMP008,Remote
+EMP033,Parker,Nguyen,D002,IT Support Specialist,2024-06-16,Active,Full-time,81000.00,EMP001,Phoenix
+EMP034,Rowan,Shah,D006,Customer Experience Analyst,2025-05-03,Active,Full-time,53000.00,EMP009,Phoenix
+EMP035,Riley,Turner,D001,Recruiter,2024-07-23,Active,Full-time,58000.00,EMP013,Phoenix
+EMP036,Quinn,Foster,D002,IT Project Coordinator,2025-08-06,Active,Part-time,51150.00,EMP008,Remote
+EMP037,Drew,Morgan,D005,Operations Coordinator,2025-09-05,Terminated,Full-time,51000.00,EMP015,Phoenix
+EMP038,Casey,James,D006,Support Team Lead,2025-07-11,Active,Full-time,55000.00,EMP009,Remote
+EMP039,Kai,Perry,D003,Content Strategist,2025-05-29,Terminated,Part-time,24750.00,EMP011,Tucson
+EMP040,Cameron,Gray,D001,HR Coordinator,2025-11-14,Active,Full-time,58000.00,EMP010,Tucson
+EMP041,Riley,Coleman,D005,Business Analyst,2024-01-20,Active,Contract,78300.00,EMP001,Phoenix
+EMP042,Reese,Reed,D003,Digital Marketing Specialist,2026-05-30,Active,Full-time,42000.00,EMP009,Remote
+EMP043,Hayden,Gray,D002,IT Support Specialist,2025-12-25,Active,Part-time,40700.00,EMP012,Phoenix
+EMP044,Parker,Perry,,Systems Analyst,2024-12-28,Terminated,Full-time,95000.00,EMP008,Remote
+EMP045,Jordan,Ross,D006,Support Team Lead,2025-06-30,Active,Full-time,58000.00,EMP002,Phoenix
+EMP046,Jamie,Bennett,D002,Database Administrator,2025-12-17,Active,Part-time,34100.00,EMP004,Remote
+EMP047,Drew,Turner,D002,Database Administrator,2025-11-03,Active,Full-time,97000.00,EMP015,Remote
+EMP048,Cameron,Ward,D005,Business Analyst,2025-11-09,Terminated,Full-time,59000.00,EMP010,Tucson
+EMP049,Hayden,Diaz,D001,HR Coordinator,2026-06-08,Active,Part-time,37950.00,EMP006,Phoenix
+EMP050,Dakota,James,D004,Accounts Payable Specialist,2025-06-05,Active,Full-time,78000.00,EMP013,Remote
+EMP051,Hayden,Shah,D006,Support Team Lead,2026-01-15,Active,Contract,49500.00,EMP017,Remote
+EMP052,Dakota,Kim,D001,HR Analyst,2025-09-25,Active,Full-time,60000.00,EMP010,Phoenix
+EMP053,Avery,Price,D004,Accountant,2024-12-22,Active,Full-time,80000.00,EMP004,Tucson
+EMP056,Jamie,Ross,D006,Customer Experience Analyst,2025-04-05,Active,Full-time,36000.00,EMP008,Remote
+EMP057,Skyler,Ali,D001,Recruiter,2026-04-28,Terminated,Full-time,66000.00,EMP008,Phoenix
+EMP058,Milan,Diaz,D002,IT Support Specialist,2024-08-06,Active,Full-time,99000.00,EMP005,Tucson
+EMP059,Dakota,Foster,D001,HR Generalist,2024-09-05,Active,Part-time,41250.00,EMP016,Tucson
+EMP060,Rowan,Nguyen,D004,Accountant,2026-07-02,Terminated,Full-time,75000.00,EMP005,Phoenix
+EMP061,Milan,Price,D006,Customer Experience Analyst,2026-09-19,Active,Full-time,38000.00,EMP015,Phoenix
+EMP062,Jamie,Ali,D003,Marketing Analyst,2025-10-16,Terminated,Full-time,49000.00,EMP012,Remote
+EMP063,Sam,Rivera,D002,Systems Analyst,2024-05-11,Active,Full-time,77000.00,EMP014,Phoenix
+EMP064,Skyler,Bennett,D004,Accountant,2024-02-10,Terminated,Full-time,69000.00,EMP018,Tucson
+EMP065,Jamie,Ross,D003,Content Strategist,2026-05-08,Active,Full-time,78000.00,EMP016,Phoenix
+EMP066,Alex,Gray,D003,Content Strategist,2026-09-21,Active,Full-time,83000.00,EMP018,Phoenix
+EMP067,Avery,Patel,D004,Accounts Payable Specialist,2024-02-25,Terminated,Full-time,87000.00,EMP007,Remote
+EMP068,Casey,Bailey,D004,Accounts Payable Specialist,2026-08-03,Active,Full-time,65000.00,EMP008,Tucson
+EMP069,Taylor,Ross,D003,Content Strategist,2025-07-23,Active,Part-time,30800.00,EMP003,Phoenix
+EMP070,Sasha,Bennett,D006,Customer Support Representative,2025-12-17,Active,Full-time,36000.00,EMP017,Phoenix
+EMP071,Finley,Reed,D002,IT Support Specialist,2024-11-08,Active,Full-time,55000.00,EMP015,Tucson
+EMP072,Sasha,Brooks,D006,Customer Experience Analyst,2026-01-25,Active,Full-time,41000.00,EMP017,Tucson
+EMP073,Alex,Bell,D001,HR Coordinator,2025-09-30,Active,Part-time,36300.00,EMP012,Phoenix
+EMP074,Finley,Rivera,D001,HR Generalist,2024-07-27,Active,Full-time,49000.00,EMP003,Tucson
+EMP075,Sam,Ross,D005,Business Analyst,2026-01-28,Active,Full-time,43000.00,EMP004,Phoenix
+EMP076,Emerson,Hayes,D004,Payroll Coordinator,2026-07-30,Active,Full-time,91000.00,EMP002,Tucson
+EMP077,Parker,Carter,,Business Analyst,2026-08-10,Active,Full-time,60000.00,EMP018,Phoenix
+EMP078,Alex,Shah,D003,Content Strategist,2025-05-14,Active,Full-time,82000.00,EMP017,Phoenix
+EMP079,Parker,Nguyen,D004,Payroll Coordinator,2025-01-07,Active,Full-time,61000.00,EMP007,Remote
+EMP080,Noah,Perry,D006,Customer Experience Analyst,2024-01-21,Active,Full-time,49000.00,EMP018,Tucson
+EMP081,Taylor,Price,D005,Operations Analyst,2026-09-02,Active,Full-time,44000.00,EMP005,Phoenix
+EMP082,Emerson,Turner,D004,Accounts Payable Specialist,2025-09-19,Active,Full-time,80000.00,EMP006,Tucson
+EMP083,Jamie,Morgan,D006,Customer Experience Analyst,2025-12-21,Active,Full-time,50000.00,EMP011,Remote
+EMP084,Cameron,Reed,D002,IT Project Coordinator,2024-09-01,Active,Contract,82800.00,EMP017,Phoenix
+EMP085,Morgan,Reed,D006,Service Coordinator,2025-07-20,Active,Contract,46800.00,EMP015,Tucson
+EMP086,Drew,Rivera,D002,IT Project Coordinator,2025-01-02,Active,Full-time,56000.00,EMP004,Phoenix
+EMP087,Avery,Ward,D005,Office Manager,2024-09-15,Active,Full-time,49000.00,EMP007,Tucson
+EMP088,Skyler,Morgan,D004,Accountant,2026-06-21,Active,Contract,54900.00,EMP016,Phoenix
+EMP089,Riley,Ward,D004,Accountant,2024-05-31,Active,Full-time,,EMP003,Tucson
+EMP090,Sasha,Diaz,D001,HR Generalist,2024-08-30,Active,Full-time,56000.00,EMP017,Tucson
+EMP091,Finley,Foster,D004,Accountant,2025-08-31,Terminated,Contract,57600.00,EMP015,Phoenix
+EMP092,Cameron,Carter,D005,Operations Coordinator,2025-03-01,Active,Full-time,48000.00,EMP002,Phoenix
+EMP093,Skyler,Price,D005,Operations Coordinator,2024-11-16,Active,Full-time,81000.00,EMP015,Phoenix
+EMP094,Jamie,Nguyen,D002,IT Project Coordinator,2025-08-02,Active,Full-time,91000.00,EMP005,Remote
+EMP095,Drew,Kim,D005,Operations Analyst,2026-05-20,Active,Full-time,52000.00,EMP017,Phoenix
+EMP096,Rowan,Morgan,D001,HR Generalist,2025-09-21,Active,Part-time,33000.00,EMP014,Tucson
+EMP097,Rowan,Patel,D006,Customer Experience Analyst,2026-04-04,Terminated,Full-time,65000.00,EMP015,Remote
+EMP098,Logan,Ward,D001,Recruiter,2025-10-22,Active,Full-time,56000.00,EMP002,Remote
+EMP099,Kai,Bailey,D001,HR Analyst,2024-03-23,Active,Full-time,75000.00,EMP018,Tucson
+EMP100,Parker,Shah,D002,Database Administrator,2026-10-04,Leave,Full-time,74000.00,EMP015,Remote
+EMP101,Sasha,Coleman,D001,HR Generalist,2025-11-06,Active,Full-time,67000.00,EMP010,Phoenix
+EMP102,Alex,Diaz,D004,Financial Analyst,2025-10-06,Active,Full-time,94000.00,EMP001,Phoenix
+EMP103,Kai,Bailey,D006,Service Coordinator,2026-04-26,Active,Full-time,65000.00,EMP013,Phoenix
+EMP104,Skyler,Morgan,D002,IT Project Coordinator,2024-09-25,Terminated,Full-time,92000.00,EMP009,Phoenix
+EMP105,Taylor,Carter,D006,Support Team Lead,2024-11-20,Active,Full-time,60000.00,EMP001,Phoenix
+EMP106,Milan,Nguyen,D004,Financial Analyst,2024-11-11,Active,Full-time,77000.00,EMP007,Tucson
+EMP107,Hayden,Diaz,D004,Accountant,2025-05-14,Active,Full-time,57000.00,EMP003,Remote
+EMP108,Emerson,Nguyen,D002,IT Support Specialist,2025-07-19,Active,Part-time,37950.00,EMP002,Phoenix
+EMP109,Reese,Shah,D003,Marketing Analyst,2026-09-29,Terminated,Full-time,70000.00,EMP014,Remote
+EMP110,Jamie,Ward,D005,Business Analyst,2026-07-21,Terminated,Part-time,47850.00,EMP012,Tucson
+EMP111,Alex,Ali,D002,Database Administrator,2024-03-30,Active,Full-time,99000.00,EMP003,Remote
+EMP112,Morgan,Bailey,D006,Support Team Lead,2026-10-11,Leave,Full-time,55000.00,EMP018,Phoenix
+EMP113,Riley,Patel,D005,Business Analyst,2024-02-01,Active,Full-time,84000.00,EMP002,Tucson
+EMP114,Dakota,Ali,D003,Marketing Analyst,2026-03-25,Active,Part-time,45650.00,EMP003,Tucson
+EMP115,Jamie,Gray,D006,Service Coordinator,2024-03-14,Active,Full-time,52000.00,EMP016,Phoenix
+EMP116,Jordan,Shah,D004,Financial Analyst,2024-07-24,Active,Full-time,46000.00,EMP002,Phoenix
+EMP117,Finley,James,D003,Marketing Analyst,2026-02-06,Active,Full-time,66000.00,EMP010,Phoenix
+EMP118,Jamie,Ross,D002,Systems Analyst,2024-06-10,Active,Full-time,91000.00,EMP014,Remote
+EMP119,Avery,Bailey,D002,Systems Analyst,2026-08-02,Active,Full-time,90000.00,EMP006,Tucson
+EMP120,Kai,Perry,,Support Team Lead,2024-05-31,Active,Full-time,53000.00,EMP005,Remote
+EMP121,Morgan,Carter,D003,Content Strategist,2025-09-10,Active,Full-time,70000.00,EMP014,Tucson
+EMP122,Alex,Nguyen,D005,Office Manager,2025-08-28,Leave,Full-time,85000.00,EMP012,Phoenix
+EMP123,Hayden,Turner,D005,Operations Coordinator,2026-10-14,Terminated,Part-time,31350.00,EMP013,Phoenix
+EMP124,Kai,Morgan,D006,Support Team Lead,2025-05-28,Active,Full-time,42000.00,EMP015,Remote
+EMP125,Noah,Kim,D006,Customer Support Representative,2025-09-24,Active,Full-time,57000.00,EMP013,Phoenix
+EMP126,Reese,Diaz,D003,Marketing Analyst,2026-04-30,Active,Full-time,74000.00,EMP013,Remote
+EMP127,Noah,Shah,D003,Digital Marketing Specialist,2025-06-10,Terminated,Contract,52200.00,EMP003,Phoenix
+EMP128,Noah,James,D004,Financial Analyst,2024-10-15,Active,Full-time,88000.00,EMP018,Tucson
+EMP129,Morgan,Bailey,D005,Office Manager,2024-07-03,Active,Full-time,77000.00,EMP005,Tucson
+EMP130,Logan,Carter,D006,Customer Experience Analyst,2026-02-19,Terminated,Contract,36000.00,EMP012,Tucson
+EMP131,Milan,Price,D001,HR Analyst,2025-03-29,Active,Full-time,71000.00,EMP004,Remote
+EMP132,Morgan,Morgan,D004,Financial Analyst,2024-10-13,Active,Full-time,76000.00,EMP006,Phoenix
+EMP133,Milan,Coleman,D005,Operations Analyst,2026-03-06,Active,Full-time,90000.00,EMP018,Tucson
+EMP134,Sam,Nguyen,D005,Operations Analyst,2026-04-29,Active,Part-time,45100.00,EMP013,Phoenix
+EMP135,Morgan,James,D006,Customer Experience Analyst,2025-03-20,Active,Contract,51300.00,EMP017,Tucson
+EMP136,Rowan,Patel,D005,Office Manager,2024-05-04,Active,Full-time,50000.00,EMP005,Remote
+EMP137,Finley,Reed,D002,IT Support Specialist,2024-04-13,Active,Full-time,56000.00,EMP008,Phoenix
+EMP138,Hayden,Bennett,D005,Operations Analyst,2025-03-18,Active,Full-time,52000.00,EMP001,Tucson
+EMP139,Avery,Kim,D002,Systems Analyst,2025-05-28,Active,Full-time,103000.00,EMP001,Phoenix
+EMP140,Noah,Perry,D003,Digital Marketing Specialist,2025-10-25,Active,Full-time,48000.00,EMP010,Remote
+EMP141,Rowan,Diaz,D001,HR Coordinator,2026-09-02,Active,Full-time,48000.00,EMP015,Phoenix
+EMP142,Skyler,Ali,D005,Operations Coordinator,2025-09-09,Active,Contract,41400.00,EMP018,Tucson
+EMP143,Parker,Foster,D006,Customer Support Representative,2026-10-01,Active,Full-time,39000.00,EMP014,Phoenix
+EMP144,Alex,Foster,D001,HR Generalist,2025-07-17,Active,Full-time,62000.00,EMP018,Remote
+EMP147,Riley,James,D006,Customer Support Representative,2025-10-02,Active,Full-time,57000.00,EMP008,Tucson
+EMP148,Riley,Coleman,D001,HR Coordinator,2024-06-23,Active,Full-time,65000.00,EMP015,Phoenix
+EMP149,Noah,Rivera,D005,Office Manager,2024-09-07,Active,Part-time,38500.00,EMP012,Tucson
+EMP150,Logan,Ross,D005,Office Manager,2025-12-21,Active,Full-time,52000.00,EMP005,Phoenix
+EMP151,Sam,Coleman,D001,HR Analyst,2026-01-22,Active,Full-time,56000.00,EMP009,Remote
+EMP152,Parker,Turner,D005,Operations Coordinator,2025-07-01,Active,Full-time,62000.00,EMP007,Phoenix
+EMP153,Taylor,Gray,D002,Systems Analyst,2026-03-31,Active,Full-time,49000.00,EMP004,Remote
+EMP154,Noah,Shah,D002,Database Administrator,2026-05-09,Active,Full-time,67000.00,EMP002,Remote
+EMP155,Logan,Patel,D005,Operations Coordinator,2024-04-17,Active,Full-time,46000.00,EMP014,Tucson
+EMP156,Sasha,Diaz,D004,Accountant,2026-09-21,Active,Full-time,58000.00,EMP001,Phoenix
+EMP157,Emerson,James,D003,Content Strategist,2024-08-15,Active,Full-time,71000.00,EMP008,Tucson
+EMP158,Quinn,Reed,D001,HR Generalist,2026-03-20,Leave,Full-time,55000.00,EMP007,Phoenix
+EMP159,Cameron,Kim,D003,Marketing Analyst,2025-11-02,Active,Full-time,67000.00,EMP003,Tucson
+EMP160,Taylor,Ali,D005,Operations Analyst,2026-10-21,Active,Full-time,65000.00,EMP004,Remote
+EMP161,Finley,Perry,D001,Recruiter,2024-02-08,Active,Full-time,62000.00,EMP002,Remote
+EMP162,Cameron,Foster,D004,Accountant,2025-08-15,Active,Full-time,65000.00,EMP015,Tucson
+EMP163,Finley,Ali,D006,Customer Experience Analyst,2024-06-29,Active,Full-time,61000.00,EMP002,Remote
+EMP164,Taylor,Diaz,D001,Recruiter,2025-09-27,Active,Full-time,52000.00,EMP008,Remote
+EMP165,Jamie,Morgan,D001,HR Generalist,2025-12-16,Active,Contract,,EMP002,Phoenix
+EMP166,Taylor,Brooks,D003,Digital Marketing Specialist,2024-12-21,Active,Full-time,81000.00,EMP013,Remote
+EMP167,Kai,Foster,D004,Accountant,2026-07-08,Active,Part-time,47300.00,EMP015,Tucson
+EMP168,Drew,Ward,D006,Customer Experience Analyst,2024-11-05,Active,Full-time,53000.00,EMP008,Phoenix
+EMP169,Quinn,Patel,D003,Marketing Coordinator,2025-09-27,Active,Full-time,63000.00,EMP018,Remote
+EMP170,Rowan,Ward,D001,Recruiter,2026-08-05,Active,Contract,39600.00,EMP007,Remote
+EMP171,Morgan,Shah,D002,IT Project Coordinator,2026-09-01,Active,Contract,68400.00,EMP002,Remote
+EMP172,Emerson,Diaz,D001,HR Generalist,2024-03-21,Active,Full-time,70000.00,EMP005,Remote
+EMP173,Parker,James,D002,IT Project Coordinator,2026-02-02,Terminated,Full-time,97000.00,EMP017,Remote
+EMP174,Quinn,Nguyen,D001,HR Analyst,2024-05-14,Active,Full-time,66000.00,EMP010,Remote
+EMP175,Quinn,Hayes,D006,Support Team Lead,2025-11-13,Active,Full-time,56000.00,EMP008,Remote
+EMP176,Dakota,Ali,D006,Service Coordinator,2024-09-21,Active,Contract,47700.00,EMP011,Remote
+EMP177,Avery,Turner,D003,Digital Marketing Specialist,2024-07-10,Active,Full-time,63000.00,EMP011,Tucson
+EMP178,Riley,Kim,D002,Systems Analyst,2025-11-30,Terminated,Full-time,62000.00,EMP008,Phoenix
+EMP179,Riley,Foster,D003,Marketing Coordinator,2024-03-18,Active,Part-time,43450.00,EMP010,Tucson
+EMP180,Cameron,Gray,D002,Systems Analyst,2025-01-05,Terminated,Full-time,99000.00,EMP005,Tucson
+EMP181,Hayden,Price,D001,Recruiter,2026-01-16,Active,Full-time,70000.00,EMP017,Remote
+EMP182,Casey,Turner,D004,Accounts Payable Specialist,2025-05-04,Active,Part-time,41250.00,EMP008,Remote
+EMP183,Emerson,Perry,D005,Business Analyst,2026-08-03,Active,Full-time,75000.00,EMP014,Phoenix
+EMP184,Dakota,Morgan,D002,Systems Analyst,2025-05-27,Active,Full-time,71000.00,EMP010,Remote
+EMP185,Emerson,Kim,D005,Operations Coordinator,2025-08-06,Active,Full-time,71000.00,EMP009,Tucson
+EMP186,Jordan,Ali,D001,HR Generalist,2026-07-12,Terminated,Contract,61200.00,EMP002,Remote
+EMP187,Parker,Morgan,D003,Digital Marketing Specialist,2026-03-01,Leave,Full-time,41000.00,EMP018,Remote
+EMP188,Milan,Kim,D006,Customer Experience Analyst,2024-10-26,Active,Full-time,64000.00,EMP006,Remote
+EMP189,Riley,Coleman,D004,Accountant,2024-01-11,Terminated,Full-time,58000.00,EMP014,Remote
+EMP190,Jordan,Carter,D005,Business Analyst,2024-08-15,Active,Full-time,50000.00,EMP018,Tucson
+EMP191,Kai,Diaz,D006,Service Coordinator,2024-05-08,Active,Part-time,19250.00,EMP016,Remote
+EMP192,Finley,Perry,D002,Systems Analyst,2025-08-19,Active,Full-time,63000.00,EMP002,Phoenix
+EMP193,Alex,Ross,D006,Customer Support Representative,2026-01-08,Active,Full-time,35000.00,EMP012,Phoenix
+EMP194,Reese,Carter,D006,Service Coordinator,2026-02-03,Active,Full-time,38000.00,EMP013,Remote
+EMP195,Kai,Brooks,D006,Customer Support Representative,2025-11-11,Active,Full-time,55000.00,EMP017,Remote
+EMP196,Rowan,Rivera,D004,Accountant,2025-01-08,Active,Full-time,94000.00,EMP011,Tucson
+EMP197,Emerson,Ali,D002,IT Support Specialist,2025-02-12,Terminated,Full-time,67000.00,EMP014,Remote
+EMP198,Sasha,Rivera,D004,Payroll Coordinator,2024-03-15,Active,Full-time,67000.00,EMP014,Remote
+EMP199,Noah,Bailey,D003,Marketing Analyst,2024-09-11,Active,Full-time,65000.00,EMP005,Tucson
+EMP200,Drew,Patel,D003,Digital Marketing Specialist,2026-10-13,Active,Full-time,73000.00,EMP010,Remote
+EMP201,Quinn,Shah,D004,Financial Analyst,2026-05-31,Active,Part-time,43450.00,EMP013,Phoenix
+EMP202,Cameron,Bell,D001,HR Analyst,2025-08-28,Active,Full-time,69000.00,EMP006,Tucson
+EMP203,Sam,Nguyen,,Content Strategist,2024-03-27,Active,Part-time,43450.00,EMP018,Remote
+EMP204,Avery,Kim,D001,HR Coordinator,2026-04-11,Active,Part-time,28600.00,EMP016,Remote
+EMP205,Reese,Ali,D006,Service Coordinator,2024-03-12,Active,Full-time,57000.00,EMP008,Remote
+EMP206,Finley,Kim,D001,HR Generalist,2026-07-10,Terminated,Full-time,46000.00,EMP008,Remote
+EMP207,Avery,Gray,D003,Content Strategist,2025-10-05,Active,Full-time,47000.00,EMP010,Phoenix
+EMP208,Casey,Foster,D004,Accountant,2024-08-29,Active,Full-time,73000.00,EMP005,Tucson
+EMP209,Cameron,Bell,D006,Service Coordinator,2025-02-13,Active,Part-time,34100.00,EMP015,Tucson
+EMP210,Quinn,Brooks,D001,HR Analyst,2025-12-12,Active,Full-time,60000.00,EMP002,Remote
+EMP211,Riley,Carter,D006,Support Team Lead,2026-01-10,Active,Full-time,46000.00,EMP018,Tucson
+EMP212,Hayden,Patel,D001,HR Analyst,2026-01-25,Active,Contract,45000.00,EMP014,Phoenix
+EMP213,Taylor,Kim,D003,Content Strategist,2026-09-07,Active,Full-time,76000.00,EMP014,Tucson
+EMP214,Sasha,Coleman,D006,Customer Support Representative,2026-07-10,Active,Full-time,42000.00,EMP018,Remote
+EMP215,Morgan,Diaz,D005,Operations Analyst,2024-09-21,Active,Part-time,25300.00,EMP017,Phoenix
+EMP216,Emerson,Price,D003,Digital Marketing Specialist,2024-11-27,Active,Full-time,62000.00,EMP005,Phoenix
+EMP217,Taylor,Diaz,D003,Digital Marketing Specialist,2025-07-16,Active,Full-time,74000.00,EMP013,Remote
+EMP218,Parker,Ward,D002,Systems Analyst,2024-12-16,Active,Full-time,86000.00,EMP008,Phoenix
+EMP219,Kai,Reed,D001,HR Coordinator,2024-04-03,Terminated,Full-time,58000.00,EMP009,Remote
+EMP220,Quinn,Ross,D004,Financial Analyst,2026-10-16,Terminated,Full-time,86000.00,EMP007,Phoenix
+EMP221,Rowan,Perry,D006,Service Coordinator,2025-09-01,Active,Full-time,44000.00,EMP011,Tucson
+EMP222,Parker,Gray,D004,Accounts Payable Specialist,2025-11-27,Active,Full-time,90000.00,EMP003,Tucson
+EMP223,Rowan,Morgan,D004,Accounts Payable Specialist,2026-01-28,Active,Full-time,60000.00,EMP015,Tucson
+EMP224,Hayden,Perry,D004,Accounts Payable Specialist,2024-10-15,Active,Full-time,69000.00,EMP012,Phoenix
+EMP225,Rowan,Ross,D002,IT Project Coordinator,2025-10-02,Active,Full-time,80000.00,EMP003,Tucson
+EMP226,Casey,Ward,D004,Financial Analyst,2024-07-03,Terminated,Full-time,60000.00,EMP018,Tucson
+EMP227,Quinn,Coleman,D001,HR Coordinator,2025-07-30,Active,Part-time,39600.00,EMP007,Phoenix
+EMP228,Reese,Rivera,,Recruiter,2024-10-01,Terminated,Full-time,67000.00,EMP002,Tucson
+EMP229,Rowan,Evans,D001,HR Generalist,2026-01-12,Active,Full-time,74000.00,EMP009,Remote
+EMP230,Dakota,Turner,D003,Marketing Coordinator,2024-09-20,Leave,Full-time,61000.00,EMP013,Phoenix
+EMP231,Parker,Ross,D002,Database Administrator,2026-10-21,Active,Full-time,93000.00,EMP002,Remote
+EMP232,Alex,Foster,D004,Accounts Payable Specialist,2024-10-13,Active,Full-time,55000.00,EMP003,Remote
+EMP233,Reese,Shah,D003,Marketing Analyst,2026-09-30,Active,Full-time,41000.00,EMP007,Remote
+EMP234,Hayden,Ross,D001,Recruiter,2025-09-22,Active,Full-time,43000.00,EMP018,Tucson
+EMP235,Riley,James,D006,Support Team Lead,2024-04-15,Active,Full-time,58000.00,EMP007,Phoenix
+EMP236,Sam,Bell,D001,HR Coordinator,2025-01-25,Active,Full-time,51000.00,EMP016,Phoenix
+EMP237,Parker,James,D004,Accountant,2024-05-07,Active,Full-time,80000.00,EMP007,Tucson
+EMP238,Parker,Coleman,D005,Business Analyst,2025-10-04,Terminated,Full-time,77000.00,EMP011,Tucson
+EMP239,Jamie,Price,D006,Customer Experience Analyst,2026-09-18,Active,Full-time,53000.00,EMP010,Tucson
+EMP240,Quinn,Morgan,D006,Support Team Lead,2026-09-28,Active,Full-time,51000.00,EMP001,Remote
+EMP241,Quinn,Rivera,D006,Service Coordinator,2026-03-19,Active,Contract,38700.00,EMP007,Tucson
+EMP242,Casey,Reed,D006,Customer Support Representative,2025-12-10,Terminated,Full-time,64000.00,EMP007,Remote
+EMP243,Jamie,Rivera,D003,Marketing Analyst,2024-10-08,Active,Full-time,55000.00,EMP004,Remote
+EMP244,Skyler,Morgan,D005,Operations Analyst,2025-04-21,Active,Full-time,88000.00,EMP016,Remote
+EMP245,Skyler,Ross,D002,IT Support Specialist,2024-11-19,Active,Contract,93600.00,EMP008,Remote
+EMP246,Taylor,Hayes,D002,IT Project Coordinator,2025-10-19,Active,Full-time,97000.00,EMP007,Remote
+EMP247,Alex,Ross,D002,IT Support Specialist,2024-12-24,Active,Part-time,27500.00,EMP013,Phoenix
+EMP248,Parker,Price,D006,Customer Experience Analyst,2024-03-17,Active,Full-time,40000.00,EMP008,Tucson
+EMP249,Morgan,Shah,D006,Service Coordinator,2024-10-01,Terminated,Full-time,46000.00,EMP018,Phoenix
+EMP250,Quinn,Ward,D006,Service Coordinator,2025-06-10,Active,Full-time,55000.00,EMP011,Remote
